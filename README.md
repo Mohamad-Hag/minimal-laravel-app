@@ -5,7 +5,14 @@ A minimal laravel application for testing purposes.
 
 Check the API documentation on: https://documenter.getpostman.com/view/14702850/2sA35Bb4Qc
 
-# Run Instructions
+## Meta Data
+
+✅ **Framework:** Laravel.<br/>
+✅ **Programming Language:** PHP.<br/>
+✅ **Authentication Method:** JWT (JSON Web Token).<br/>
+
+## Run Instructions
+
 1) Open CMD.
 
 2) Clone the project using: `git clone https://github.com/Mohamad-Hag/minimal-laravel-app`.
